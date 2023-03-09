@@ -1,6 +1,6 @@
 # sparewo
 
-A new Flutter project.
+A new Flutter Web pages project.
 
 ## Getting Started
 
